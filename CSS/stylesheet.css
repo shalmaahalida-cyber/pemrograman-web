@@ -16,8 +16,8 @@ li {
     list-style: none
 }
 .header {
-    background-color: rgb(253, 246, 220);
-    color: #fff;
+    background-color: rgb(253, 220, 235);
+    color: #181717;
     height: 90px;
 }
 .header-logo {
