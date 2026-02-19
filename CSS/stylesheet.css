@@ -29,3 +29,19 @@ li {
     float: left;
     padding: 33px 20px;
 }
+.footer {
+    background-color: rgb(196, 241, 255);
+    color: #181717;
+    height: 120px;
+    padding: 40px;
+}
+.footer-logo {
+    float: left;
+    font-size: 32px;
+}
+.footer-list {
+    float: right;
+}
+.footer-list li {
+    padding-bottom; 20px;
+}
