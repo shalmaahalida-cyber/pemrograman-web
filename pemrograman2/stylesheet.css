@@ -34,7 +34,7 @@ a {
 }
 
 .btn-wrapper {
-    margin-top: 20px 0;
+    margin: 20px 0;
 }
 
 .btn-wrapper p {
@@ -172,4 +172,19 @@ footer p {
 
 footer {
   padding-top: 30px;
+}
+* {
+    box-sizing: border-box;
+}
+
+.clear {
+    clear: left;
+}
+
+.menu-icon {
+    color: white;
+    float: right;
+    font-size: 25px;
+    padding: 21px 0;
+    display: none;
 }
